@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "MASShortcut",
+        "repositoryURL": "https://github.com/sweetppro/MASShortcut",
+        "state": {
+          "branch": "master",
+          "revision": "0e57464e1029b66e373be2cd8e036dcb247c4dee",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
